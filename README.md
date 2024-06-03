@@ -1,7 +1,7 @@
 # Computer-Networks
 CS3357: Computer Networks
 
-Assignment 1: Build a multi-client HTTP web server
+Assignment 1: Building a multi-client HTTP web server
 
 Assignment 2: Building Two Chatroom Applications Using TCP and UDP
 
